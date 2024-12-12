@@ -47,6 +47,14 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ---
 
+## 📈 **Statistiques GitHub**
+
+![Bastieng GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastienggg&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastienggg&layout=compact&theme=radical)
+
+---
+
 ## 📫 **Me contacter**
 
 - 💼 LinkedIn : [Bastien Guitard](https://fr.linkedin.com/in/bastien-guitard-30585329b?original_referer=https%3A%2F%2Fwww.google.com%2F)
