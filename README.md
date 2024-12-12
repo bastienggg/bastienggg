@@ -40,7 +40,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ---
 
-## 📂 **Projets récents**
+## 📂 **Projets universitaire récents**
 
 ### 🔥 [SAE3.03 : Dashboard Analytique](https://github.com/bastienggg/SAE3.03)
 
