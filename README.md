@@ -1,3 +1,5 @@
+![Bannière de Bastien Guitard](./assets/banniére.jpg)
+
 # 👋 Salut, je suis **Bastien Guitard** !
 
 ### 🧑‍🎓 Étudiant en BUT 2 - Métiers du Multimédia et de l'Internet (MMI)
