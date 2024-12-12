@@ -1,4 +1,4 @@
-![Bannière de Bastien Guitard](./assets/banniére.jpg)
+![Bannière de Bastien Guitard](./assets/banner.png)
 
 # 👋 Salut, je suis **Bastien Guitard** !
 
