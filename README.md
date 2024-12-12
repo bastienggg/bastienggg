@@ -40,10 +40,14 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ## 📂 **Projets récents**
 
-### 🔥 [Projet 1 : Dashboard Analytique](https://github.com/bastienggg/SAE3.03)
+### 🔥 [SAE3.03 : Dashboard Analytique](https://github.com/bastienggg/SAE3.03)
 
 - Développement d'un tableau de bord interactif pour visualiser des données.
 - Utilisation de **ApexCharts** et **Tailwind CSS** pour des graphismes modernes.
+
+### 🔥 [SAE3.01 : Site de click and collect](https://github.com/bastienggg/SAE-3.01)
+
+- Intégrer/développer des interfaces/parcours utilisateurs au sein d’un système d’information
 
 ---
 
