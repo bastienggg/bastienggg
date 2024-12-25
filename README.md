@@ -40,6 +40,14 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ---
 
+## 🌐 **Projets personnels**
+
+### 🖥️ [Portfolio de développement front-end](https://github.com/bastienggg/TailwindProjet)
+
+Dans ce dépôt, je regroupe mes **projets Frontend Mentor**, où je développe des interfaces modernes et réactives en utilisant **Tailwind CSS** et d'autres technologies front-end. Chaque projet est accompagné d'une démonstration en ligne ! 🚀
+
+---
+
 ## 📂 **Projets universitaire récents**
 
 ### 🔥 [SAE3.03 sprint 1 : Dashboard Analytique](https://github.com/bastienggg/SAE3.03)
