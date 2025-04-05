@@ -13,25 +13,6 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 ## 🌟 **À propos de moi**
 
 - 🎓 Étudiant en **BUT 2 MMI**, spécialisation dans le développement web et la création interactive.
-- 💻 Je travaille avec des **langages** comme :
-  - HTML5, CSS3, JavaScript
-  - PHP, SQL
-  - Python, Java
-- 🚀 Je développe dans des environnements comme :
-  - **Node.js**, intégrant des outils modernes pour le web
-  - **React.js** pour le développement d'applications web modernes
-  - **Vue.js** pour des interfaces utilisateur réactives
-  - **Symfony** pour le développement d'applications PHP robustes
-- 📊 Je maîtrise des **librairies et outils graphiques** comme :
-  - [p5.js](https://p5js.org/) pour la création graphique interactive
-  - [ApexCharts](https://apexcharts.com/) pour la visualisation de données
-  - [D3.js](https://d3js.org/) pour la manipulation de données
-- 🎨 **Frameworks et outils** préférés :
-  - [Tailwind CSS](https://tailwindcss.com/) pour des interfaces modernes et réactives
-  - [Sass](https://sass-lang.com/) pour des feuilles de style organisées et performantes
-  - [Bootstrap](https://getbootstrap.com/) pour le développement rapide
-  - [Git](https://git-scm.com/) pour le contrôle de version
-  - [Docker](https://www.docker.com/) pour la conteneurisation
 
 ---
 
@@ -58,28 +39,40 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ---
 
-## 🌐 **Projets personnels**
+## 🚀 **Projets Récents**
 
-### 🖥️ [Portfolio de développement front-end](https://github.com/bastienggg/TailwindProjet)
+### 🔥 [SAE-401-Threads](https://github.com/bastienggg/SAE-401-Threads)
 
-Dans ce dépôt, je regroupe mes **projets Frontend Mentor**, où je développe des interfaces modernes et réactives en utilisant **Tailwind CSS** et d'autres technologies front-end. Chaque projet est accompagné d'une démonstration en ligne ! 🚀
+- Développement d'un reseaux social inspirer de Threads
+- Technologies : React, Symfony
 
 ---
 
-## 📂 **Projets universitaire récents**
+## 📂 **Tous les Projets**
 
-### 🔥 [SAE3.03 sprint 1 : Dashboard Analytique](https://github.com/bastienggg/SAE3.03)
+### 🌐 **Projets Web**
 
-- Développement d'un tableau de bord interactif pour visualiser des données.
-- Utilisation de **ApexCharts** et **Tailwind CSS** pour des graphismes modernes.
+- [SAE-401-Threads](https://github.com/bastienggg/SAE-401-Threads)
+  - Développement d'un reseaux social inspirer de Threads
+  - Technologies : React, Symfony
 
-### 🔥 [SAE3.03 sprint 2 : Visualisation cartographique](https://github.com/bastienggg/SAE3.03_sprint2)
+### 📊 **Projets de Visualisation de Données**
 
-Visualisation cartographique des candidatures MMI grâce a **leafletjs**.
+- [SAE3.03 sprint 2](https://github.com/bastienggg/SAE3.03_sprint2)
+  - Visualisation cartographique
+  - Technologies : Leaflet.js, JavaScript
 
-### 🔥 [SAE3.01 : Site de click and collect](https://github.com/bastienggg/SAE-3.01)
+### 🎨 **Projets Design**
 
-- Intégrer/développer des interfaces/parcours utilisateurs au sein d'un système d'information
+- [SAE3.03 sprint 1](https://github.com/bastienggg/SAE3.03)
+  - Dashboard analytique
+  - Technologies : ApexCharts, Tailwind CSS
+
+### 🛒 **Projets E-commerce**
+
+- [SAE3.01](https://github.com/bastienggg/SAE-3.01)
+  - Site de click and collect
+  - Technologies : PHP, MySQL
 
 ---
 
