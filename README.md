@@ -6,8 +6,6 @@
 
 Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bastienggg&theme=radical)](https://git.io/streak-stats)
-
 ---
 
 ## 🌟 **À propos de moi**
@@ -31,6 +29,8 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=for-the-badge&logo=aframe&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,6 +56,18 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
   - Développement d'un reseaux social inspirer de Threads
   - Technologies : React, Symfony
 
+### 🎮 **Projets VR**
+
+- [Let Him Quizz](https://github.com/bastienggg/Let_him_quizz)
+  - Jeu VR éducatif pour l'apprentissage de l'anglais
+  - Technologies : A-Frame, JavaScript
+
+### 🌐 **Portfolio**
+
+- [Protfolio](https://github.com/bastienggg/PortfolioMMI)
+  - Portfolio personnel développé en React
+  - Technologies : React, Tailwind CSS
+
 ### 📊 **Projets de Visualisation de Données**
 
 - [SAE3.03 sprint 2](https://github.com/bastienggg/SAE3.03_sprint2)
@@ -80,6 +92,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastienggg&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastienggg&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bastienggg&theme=radical)](https://git.io/streak-stats)
 
 ---
 
