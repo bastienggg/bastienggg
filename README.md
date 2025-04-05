@@ -1,5 +1,12 @@
 ![Bannière de Bastien Guitard](./assets/banner.png)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bastienggg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/bastienggg?tab=followers">
+    <img src="https://img.shields.io/github/followers/bastienggg?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</div>
+
 # 👋 Salut, je suis **Bastien Guitard** !
 
 ### 🧑‍🎓 Étudiant en BUT 2 - Métiers du Multimédia et de l'Internet (MMI)
@@ -61,13 +68,36 @@ Visualisation cartographique des candidatures MMI grâce a **leafletjs**.
 
 ### 🔥 [SAE3.01 : Site de click and collect](https://github.com/bastienggg/SAE-3.01)
 
-- Intégrer/développer des interfaces/parcours utilisateurs au sein d’un système d’information
+- Intégrer/développer des interfaces/parcours utilisateurs au sein d'un système d'information
 
----
+## 🚀 **Derniers Projets**
+
+<div align="center">
+  <a href="https://github.com/bastienggg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bastienggg&repo=SAE3.03&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/bastienggg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bastienggg&repo=SAE3.03_sprint2&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/bastienggg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bastienggg&repo=SAE-3.01&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 ## 📈 **Statistiques GitHub**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastienggg&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bastienggg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastienggg&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastienggg&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bastienggg&theme=radical&no-frame=true&column=7&margin-w=15" alt="Trophy" />
+</div>
+
+## 📊 **Activité GitHub**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bastienggg&theme=radical&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
