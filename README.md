@@ -2,7 +2,7 @@
 
 # 👋 Salut, je suis **Bastien Guitard** !
 
-### 🧑‍🎓 Étudiant en BUT 2 - Métiers du Multimédia et de l'Internet (MMI)
+### 🧑‍🎓 Étudiant en BUT 3 - Métiers du Multimédia et de l'Internet (MMI)
 
 Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
@@ -10,7 +10,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ## 🌟 **À propos de moi**
 
-- 🎓 Étudiant en **BUT 2 MMI**, spécialisation dans le développement web et la création interactive.
+- 🎓 Étudiant en **BUT 3 MMI**, spécialisation dans le développement web et la création interactive.
 
 ---
 
