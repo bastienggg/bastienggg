@@ -8,12 +8,6 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ---
 
-## 🌟 **À propos de moi**
-
-- 🎓 Étudiant en **BUT 3 MMI**, spécialisation dans le développement web et la création interactive.
-
----
-
 ## 🧠 Stack technique
 
 ### Frontend
