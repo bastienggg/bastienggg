@@ -8,7 +8,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement étudiant à l'IUT du Limousin.
 
 ## 🌐 Mon portfolio
 
-[Bastien GUITARD - Portfolio](https://portfolio-guitard-bastien.vercel.app/)
+[Bastien GUITARD - Portfolio](https://bastienguitard.fr)
 
 
 ---
